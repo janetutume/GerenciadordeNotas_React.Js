@@ -10,7 +10,6 @@ class App extends Component {
       <section className="conteudo">
         <FormularioCadastro/>
         <ListaDeNotas/>
-        <h1>hacktoberfest is the best!</h1>
       </section>
     );
   }

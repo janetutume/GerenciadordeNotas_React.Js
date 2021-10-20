@@ -9,7 +9,6 @@ class ListaDeNotas extends Component {
           return (
             <li className="lista-notas_item" key={index}>
               <CardNotas/>
-              <h2>hacktoberfest is the best</h2>
             </li>
           );
         })}
